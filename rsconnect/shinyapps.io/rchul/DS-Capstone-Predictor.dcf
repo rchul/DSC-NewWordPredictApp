@@ -1,0 +1,13 @@
+name: DS-Capstone-Predictor
+title: DS-Capstone-Predictor
+username:
+account: rchul
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 4482397
+bundleId: 4945013
+url: https://rchul.shinyapps.io/DS-Capstone-Predictor/
+when: 1629465710.16503
+lastSyncTime: 1629465710.16503
+asMultiple: FALSE
+asStatic: FALSE
