@@ -22,7 +22,7 @@ This project is a part of the Coursera's Data Science Specialization. I named it
 - Finally, the dfms were converted to [data.table](https://cran.r-project.org/web/packages/data.table/vignettes/datatable-intro.html) to prepare for a predicting algorithm.
 
 ## The Application - You Type, I Predict.
-- The application can be access here: https://rchul.shinyapps.io/DS-Capstone-Predictor/.
+- The application can be accessed here: https://rchul.shinyapps.io/DS-Capstone-Predictor/.
 - The application utilzed Stupid Back-off, which is the next word prediction algorithm proposed by [(T. Brants et al., 2007)](https://aclanthology.org/D07-1090.pdf)
 - As the name of the application suggested, you only have to type, and 3 predictions will be presented.
 - The middle one is the most likely one, similiar to your phone.
